@@ -1,0 +1,20 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+  border-bottom: 1px solid #f9f9f9;
+}
+
+.button {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+}
+
+.icon.icon {
+  fill: rgb(71, 71, 71);
+  width: 30px;
+  height: 30px;
+}
